@@ -1,6 +1,6 @@
 Poweramp APIs
 ===========
-
+Christian Castellanos Repo de Poweramp
 * **Skin SDK**: [poweramp_skin_sdk/poweramp_skin_sample/readme.md](poweramp_skin_sdk/poweramp_skin_sample/readme.md)
 * **Intent-based APIs**: [poweramp_api_example/readme.md](poweramp_api_example/readme.md)
 * **Visualization Presets**: [poweramp_vis_presets_example/readme.md](poweramp_vis_presets_example/readme.md)
